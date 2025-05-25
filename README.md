@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 1. Run the chatbot:
 ```bash
-python context_call.py
+python chatbot.py
 ```
 
 2. Available Commands:
